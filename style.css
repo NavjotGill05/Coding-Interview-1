@@ -1,0 +1,46 @@
+body{
+      max-width: 1200px;
+      margin: 0 auto;
+  }
+
+  #employeeContainer{
+      padding: 2%;
+      display: flex;
+      flex-wrap: wrap;
+      text-align: left;
+  }
+
+   i{
+      margin-left: 92%;
+   }  
+
+  img{
+      display: block;
+      margin: 8% auto;
+      border-radius: 50%;
+      height: 140px;
+      width: 140px;
+  }
+
+  h1, h2{
+      text-align: center;
+  }
+  
+  .employeeCard {
+      border: 1px solid black;
+      padding: 15px;
+      margin: 2%;
+      width: 300px;
+  }
+
+  .empRole{
+      float: left;
+      margin-top: 35px;
+      margin-left: 5px;
+      margin-right: 5px;
+      margin-bottom: 0;
+      padding: 6px 12px;
+      width: fit-content;
+      color: black;
+  }
+  
